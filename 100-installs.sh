@@ -16,7 +16,9 @@ figlet "INSTALLING YOUR SOFTWARE"
 sudo apt install -y libgtk2.0 --no-upgrade
 sudo apt install -y zsh --no-upgrade
 sudo apt install -y curl --no-upgrade
-sudo apt install -y vim --no-upgrade
+sudo apt install -y neovim --no-upgrade
+sudo apt install -y python-neovim --no-upgrade
+sudo apt install -y python3-neovim --no-upgrade
 sudo apt install -y neofetch --no-upgrade
 sudo apt install -y git --no-upgrade
 sudo apt install -y steam-installer --no-upgrade
